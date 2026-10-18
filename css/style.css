@@ -7,3 +7,7 @@ h1 {
   color: blue;
   font-size: 20px;
 }
+section {background-color: lightgray;
+         padding: 24px;
+         margin-bottom: 24px
+        }
