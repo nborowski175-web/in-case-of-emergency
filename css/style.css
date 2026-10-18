@@ -2,6 +2,9 @@ h1 {
   color: red;
   font-size: 48px;
   letter-spacing: 2px;
+h2 {
+  font-size: 32 px;
+}
 }
 .intro {
   color: blue;
