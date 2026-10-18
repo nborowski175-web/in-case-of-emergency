@@ -1,5 +1,5 @@
 body {
-  font-family: arial,sans-serif;
+  font-family: Arial,sans-serif;
   line-height: 1.5;
   margin: 0;
 }
@@ -15,7 +15,7 @@ h2 {
   color: blue;
   font-size: 20px;
 }
-section {background-color: lightgray;
-         padding: 24px;
+section { padding: 24px;
+          background-color: lightgray
          margin-bottom: 24px;
 }
