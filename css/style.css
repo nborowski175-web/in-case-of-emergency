@@ -2,9 +2,9 @@ h1 {
   color: red;
   font-size: 48px;
   letter-spacing: 2px;
+}
 h2 {
   font-size: 32 px;
-}
 }
 .intro {
   color: blue;
@@ -13,4 +13,4 @@ h2 {
 section {background-color: lightgray;
          padding: 24px;
          margin-bottom: 24px;
-        }
+}
