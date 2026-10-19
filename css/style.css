@@ -23,7 +23,7 @@ nav {
   display: flex;
   gap: 16px;
   justify-content: center;
-  padding: 16;
+  padding: 16px;
 }
   
 nav a {text-decoration: none;
