@@ -19,6 +19,9 @@ img {
   color: blue;
   font-size: 20px;
 }
+nav a {text-decoration: none;
+       margin-right: 16px;
+      }
 section { padding: 24px;
           background-color: lightgray;
          margin-bottom: 24px;
