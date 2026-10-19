@@ -19,8 +19,12 @@ img {
   color: blue;
   font-size: 20px;
 }
+nav {
+  display: flex;
+  gap: 16px;
+}
+  
 nav a {text-decoration: none;
-       margin-right: 16px;
       }
 section { padding: 24px;
           background-color: lightgray;
