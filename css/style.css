@@ -22,6 +22,8 @@ img {
 nav {
   display: flex;
   gap: 16px;
+  justify-content: center;
+  padding: 16;
 }
   
 nav a {text-decoration: none;
