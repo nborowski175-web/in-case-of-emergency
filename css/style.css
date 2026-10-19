@@ -30,13 +30,14 @@ nav a {
   text-decoration: none;
   padding: 12px 16px;
   border: 1px solid black;
-      }
+}
 nav a:hover {
   background-color: black;
   color: white;
-            }
+}
 nav a:focus-visible {
-  outline: 3px;}
+  outline: 3px;
+}
 section { 
   padding: 24px;
   background-color: lightgray;
