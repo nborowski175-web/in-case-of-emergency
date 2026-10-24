@@ -30,7 +30,7 @@ nav a {
   text-decoration: none;
   padding: 12px 16px;
   border: 1px solid black;
-  transition: background-color 0.2s, color 0.2s;
+  transition: background-color 0.2s, color 0.2s, transform 0.2s;
 }
 
 nav a:hover {
