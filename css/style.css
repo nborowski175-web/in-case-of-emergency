@@ -47,3 +47,10 @@ section {
   background-color: lightgray;
   margin-bottom: 24px;
 }
+
+@media (max-width: 600px) {
+  nav {
+    flex-direction: column;
+  }
+)
+
