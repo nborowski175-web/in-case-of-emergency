@@ -31,11 +31,12 @@ nav a {
   padding: 12px 16px;
   border: 1px solid black;
   transition: background-color 0.2s, color 0.2s;
-  transform: scale(1.05);
 }
+
 nav a:hover {
   background-color: black;
   color: white;
+  transform: scale(1.05);
 }
 nav a:focus-visible {
   outline: 3px solid blue;
