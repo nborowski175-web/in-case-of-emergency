@@ -23,6 +23,7 @@ nav {
   display: flex;
   gap: 16px;
   justify-content: center;
+  flex-wrap: wrap;
   padding: 16px;
 }
   
