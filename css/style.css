@@ -63,7 +63,8 @@ section {
     align-items: center;
   }
   nav a {
-    max-width: 100%;
+    width: 100%;
+    max-width: 240px;
     text-align: center;
   }
 }
