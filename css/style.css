@@ -57,9 +57,9 @@ section {
   margin-bottom: 24px;
 }
 
-.shows ul {
+#shows ul {
   display: grid;
-  grid-templates-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 16px;
 
 @media (max-width: 600px) {
