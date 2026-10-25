@@ -38,6 +38,10 @@ nav a {
   transition: background-color 0.2s, color 0.2s, transform 0.2s;
 }
 
+header {
+  height: 100vh;
+}
+
 nav a:hover {
   background-color: black;
   color: white;
