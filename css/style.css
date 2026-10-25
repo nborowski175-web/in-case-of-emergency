@@ -75,5 +75,6 @@ section {
   }
   #shows ul {
     grid-template-columns: 1fr;
+  }
 }
 
