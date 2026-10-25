@@ -62,7 +62,7 @@ section {
   grid-template-columns: 1fr 1fr;
   gap: 16px;
 }
-@keyframes fade–in {
+@keyframes fade-in {
   from {
     opacity: 0;
   }
