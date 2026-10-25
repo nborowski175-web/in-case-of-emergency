@@ -73,5 +73,7 @@ section {
     max-width: 240px;
     text-align: center;
   }
+  #shows ul {
+    grid-template-columns: 1fr;
 }
 
