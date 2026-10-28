@@ -71,9 +71,11 @@ section {
   }
   50% {
     opacity: 0.5;
+    transform: translateY(15px);
   }
   100% {
     opacity: 1;
+    transform: translateY(0px);
   }
 }
 @media (max-width: 600px) {
