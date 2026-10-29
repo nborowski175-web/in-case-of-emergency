@@ -83,6 +83,15 @@ section {
     transform: translateY(0px);
   }
 }
+@keyframes move-test {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(120px);
+  }
+}
+    
 @media (max-width: 600px) {
   nav {
     flex-direction: column;
