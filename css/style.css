@@ -25,6 +25,11 @@ img {
 .intro {
   color: blue;
   font-size: 1.25rem;
+  animation-name: move-test;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-iteration-count: 3;
+  animation-direction: alternate; 
 }
 header {
   min-height: 30vh;
