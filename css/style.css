@@ -84,10 +84,10 @@ section {
   }
 }
 @keyframes move-test {
-  0% {
+  from {
     transform: translateX(0);
   }
-  100% {
+  to {
     transform: translateX(120px);
   }
 }
