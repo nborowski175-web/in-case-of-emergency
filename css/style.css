@@ -49,7 +49,7 @@ nav a {
 nav a:hover {
   background-color: black;
   color: white;
-  transform: rotate(25deg);
+  transform: scale(1.05) rotate(25deg);
 }
 nav a:focus-visible {
   outline: 3px solid blue;
