@@ -25,11 +25,7 @@ img {
 .intro {
   color: blue;
   font-size: 1.25rem;
-  animation-name: move-test;
-  animation-duration: 2s;
-  animation-timing-function: linear;
-  animation-iteration-count: 3;
-  animation-direction: alternate; 
+  animation-name: move-test 2s 0s linear 3 alternate;
 }
 .intro:hover {
   animation-play-state: paused;
