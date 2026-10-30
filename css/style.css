@@ -25,7 +25,7 @@ img {
 .intro {
   color: blue;
   font-size: 1.25rem;
-  animation: move-test 2s 0s steps(4) 3 alternate;
+  animation: move-test 2s 0s cubic-bezier(0.42, 0, 0.58, 1) 3 alternate;
 }
 .intro:hover {
   animation-play-state: paused;
